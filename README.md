@@ -2,7 +2,7 @@
 Another Odin Project journeyman.
 ## About Me
 
->blockquote journeyman.
+>journeyman.
 >
 I am still trying to figure out if this is a microagression or not. I guess if I am struggling to decide, I have my answer!
 ## Some Facts
